@@ -23,9 +23,12 @@ DAX: Calculation of profit margins and sales totals.
 ## How to Use
 To explore the interactive report:
 
-1- Download the المركبات المستوردة في الربع الثالث لعام 2024 file from this repository.
+1- Download the  `المركبات المستوردة في الربع الثالث لعام 2024 ` file from this repository.
+
 2- Open the file using Power BI Desktop.
+
 3- Use the Beneficiary Category (فئة المستفيد) slicer to toggle between Corporate and Individual data.
+
 4- Filter by Manufacturing Year (سنة الصنع) to see historical trends.
 
 ### Dashboard in Action
