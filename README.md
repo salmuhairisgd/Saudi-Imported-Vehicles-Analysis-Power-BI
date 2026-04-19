@@ -21,11 +21,12 @@ DAX: Calculation of profit margins and sales totals.
 <img width="1317" height="735" alt="Screenshot of Saudi Imported Vehicles Analysis" src="https://github.com/user-attachments/assets/5b57aedf-a662-442e-a790-a30a42fa3719" />
 
 ## How to Use
-Open the .pbix file using Power BI Desktop.
+To explore the interactive report:
 
-Use the Beneficiary Category (فئة المستفيد) slicer to toggle between Corporate and Individual data.
-
-Filter by Manufacturing Year (سنة الصنع) to see historical trends.
+1- Download the المركبات المستوردة في الربع الثالث لعام 2024 file from this repository.
+2- Open the file using Power BI Desktop.
+3- Use the Beneficiary Category (فئة المستفيد) slicer to toggle between Corporate and Individual data.
+4- Filter by Manufacturing Year (سنة الصنع) to see historical trends.
 
 ### Dashboard in Action
 Here are examples of how the interactive filters work
